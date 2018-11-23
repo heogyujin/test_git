@@ -1,11 +1,15 @@
-public class add{
+public class calculator{
 
+    public multiplier{
+      return a*b;
+    }
 
+    public minus{
+      return a-b;
+
+    }
 
     public int sum{
     return a+b;
 }
-
-
-
 }
